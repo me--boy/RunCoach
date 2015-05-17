@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2061" systemVersion="12E55" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="TB_History" representedClassName="TB_History" syncable="YES">
+        <attribute name="achvName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="averageVelocity" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="happenTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="maxVelocity" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pathFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalDistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalTime" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="tutorial" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="TB_tutorial" inverseName="history" inverseEntity="TB_tutorial" syncable="YES"/>
+    </entity>
+    <entity name="TB_Reminder" representedClassName="TB_Reminder" syncable="YES">
+        <attribute name="attribute" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="identification" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="repeat" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="TB_Setting" representedClassName="TB_Setting" syncable="YES">
+        <attribute name="attribute" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="autoLock" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="beep" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="coachVoice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distanceUnit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gps" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="vibrate" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="voidce" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="TB_tutorial" representedClassName="TB_tutorial" syncable="YES">
+        <attribute name="attribute" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="attribute11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="finishDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="tutorialFinish" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="tutorialID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="tutorialName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="history" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="TB_History" inverseName="tutorial" inverseEntity="TB_History" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TB_History" positionX="160" positionY="192" width="128" height="315"/>
+        <element name="TB_Reminder" positionX="160" positionY="192" width="128" height="300"/>
+        <element name="TB_Setting" positionX="160" positionY="192" width="128" height="330"/>
+        <element name="TB_tutorial" positionX="160" positionY="192" width="128" height="300"/>
+    </elements>
+</model>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>turotials1</key>
+	<dict>
+		<key>name</key>
+		<string>Week 1 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>25</string>
+	</dict>
+	<key>turotials10</key>
+	<dict>
+		<key>name</key>
+		<string>Week 4 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,4</string>
+			<string>Walk,3</string>
+			<string>Run,4</string>
+			<string>Walk,3</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>34</string>
+	</dict>
+	<key>turotials11</key>
+	<dict>
+		<key>name</key>
+		<string>Week 4 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,5</string>
+			<string>Walk,3</string>
+			<string>Run,5</string>
+			<string>Walk,3</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>36</string>
+	</dict>
+	<key>turotials12</key>
+	<dict>
+		<key>name</key>
+		<string>Week 4 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,3</string>
+			<string>Walk,2</string>
+			<string>Run,5</string>
+			<string>Walk,2</string>
+			<string>Run,5</string>
+			<string>Walk,2</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>34</string>
+	</dict>
+	<key>turotials13</key>
+	<dict>
+		<key>name</key>
+		<string>Week 5 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,5</string>
+			<string>Walk,3</string>
+			<string>Run,6</string>
+			<string>Walk,3</string>
+			<string>Run,5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>32</string>
+	</dict>
+	<key>turotials14</key>
+	<dict>
+		<key>name</key>
+		<string>Week 5 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,5</string>
+			<string>Walk,3</string>
+			<string>Run,8</string>
+			<string>Walk,4</string>
+			<string>Run,5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>35</string>
+	</dict>
+	<key>turotials15</key>
+	<dict>
+		<key>name</key>
+		<string>Week 5 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,8</string>
+			<string>Walk,4</string>
+			<string>Run,8</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials16</key>
+	<dict>
+		<key>name</key>
+		<string>Week 6 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,10</string>
+			<string>Walk,5</string>
+			<string>Run,10</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>35</string>
+	</dict>
+	<key>turotials17</key>
+	<dict>
+		<key>name</key>
+		<string>Week 6 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,10</string>
+			<string>Walk,3</string>
+			<string>Run,10</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>33</string>
+	</dict>
+	<key>turotials18</key>
+	<dict>
+		<key>name</key>
+		<string>Week 6 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,15</string>
+			<string>Walk,3</string>
+			<string>Run,5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>33</string>
+	</dict>
+	<key>turotials19</key>
+	<dict>
+		<key>name</key>
+		<string>Week 7 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,20</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials2</key>
+	<dict>
+		<key>name</key>
+		<string>Week 1 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials20</key>
+	<dict>
+		<key>name</key>
+		<string>Week 7 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,20</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials21</key>
+	<dict>
+		<key>name</key>
+		<string>Week 7 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,20</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials22</key>
+	<dict>
+		<key>name</key>
+		<string>Week 8 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,25</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>35</string>
+	</dict>
+	<key>turotials23</key>
+	<dict>
+		<key>name</key>
+		<string>Week 8 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,25</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>35</string>
+	</dict>
+	<key>turotials24</key>
+	<dict>
+		<key>name</key>
+		<string>Week 8 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,25</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>35</string>
+	</dict>
+	<key>turotials25</key>
+	<dict>
+		<key>name</key>
+		<string>Week 9 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,28</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>38</string>
+	</dict>
+	<key>turotials26</key>
+	<dict>
+		<key>name</key>
+		<string>Week 9 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,30</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>40</string>
+	</dict>
+	<key>turotials27</key>
+	<dict>
+		<key>name</key>
+		<string>Week 9 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,35</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>45</string>
+	</dict>
+	<key>turotials3</key>
+	<dict>
+		<key>name</key>
+		<string>Week 1 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Run,1</string>
+			<string>Walk,1.5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials4</key>
+	<dict>
+		<key>name</key>
+		<string>Week 2 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,1</string>
+			<string>Walk,1</string>
+			<string>Run,1</string>
+			<string>Walk,1</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials5</key>
+	<dict>
+		<key>name</key>
+		<string>Week 2 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,1</string>
+			<string>Walk,1</string>
+			<string>Run,1</string>
+			<string>Walk,1</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+	<key>turotials6</key>
+	<dict>
+		<key>name</key>
+		<string>Week 2 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>34</string>
+	</dict>
+	<key>turotials7</key>
+	<dict>
+		<key>name</key>
+		<string>Week 3 Day 1</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2.5</string>
+			<string>Walk,2.5</string>
+			<string>Run,2.5</string>
+			<string>Walk,2.5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>28</string>
+	</dict>
+	<key>turotials8</key>
+	<dict>
+		<key>name</key>
+		<string>Week 3 Day 2</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2.5</string>
+			<string>Walk,2.5</string>
+			<string>Run,2.5</string>
+			<string>Walk,2.5</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>28</string>
+	</dict>
+	<key>turotials9</key>
+	<dict>
+		<key>name</key>
+		<string>Week 3 Day 3</string>
+		<key>stages</key>
+		<array>
+			<string>Warm up,5</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,2</string>
+			<string>Walk,2</string>
+			<string>Run,3</string>
+			<string>Walk,3</string>
+			<string>Run,3</string>
+			<string>Walk,3</string>
+			<string>Cool down,5</string>
+		</array>
+		<key>totalTime</key>
+		<string>30</string>
+	</dict>
+</dict>
+</plist>
